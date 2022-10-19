@@ -1,5 +1,6 @@
 # Computer Graphics
  Computer Graphics coding assignments
+ 
  In this repository I will post links to observablehq, where we had to complete all programming assignments.
  
 ### Topics involved
