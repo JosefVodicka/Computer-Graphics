@@ -11,6 +11,8 @@
     - Light
     - Material Texture
     - Material Properties
+    - Textures
+    - Ray-Tracing
     
  
 ## Transformation
